@@ -1,2 +1,2 @@
 # testrepo
-learning how
+learning how to work with GitHub
